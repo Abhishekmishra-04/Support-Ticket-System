@@ -10,6 +10,9 @@ This is a comprehensive Support Ticket System built for a Tech Intern Assessment
 - **LLM:** OpenAI (GPT-4o-mini)
 - **Infrastructure:** Docker + Docker Compose
 
+- Demo- <img width="1867" height="825" alt="image" src="https://github.com/user-attachments/assets/30059234-1634-4315-a711-63e5b5154bf7" />
+
+
 ## Setup Instructions
 
 1.  **Clone the repository.**
